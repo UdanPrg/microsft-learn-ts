@@ -19,5 +19,5 @@ Sientanse libres de aportar al repositorio o preguntar cualquier cosa al respect
 Pueden encontrarme en mis redes sociales siguientes:
 
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="25" height="25" alt="instagram icon" /> | [@udanprg](https://www.instagram.com/udanprg/)|
-
+|--- | ---|
 |<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" height="25" alt="linkedin icon" /> | [/uriel.arana](https://www.linkedin.com/in/urielarana/)|
