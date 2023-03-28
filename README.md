@@ -18,21 +18,6 @@ Sientanse libres de aportar al repositorio o preguntar cualquier cosa al respect
 
 Pueden encontrarme en mis redes sociales siguientes:
 
-<figure>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="25" height="25" alt="instagram icon" />
-<figcaption>
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="25" height="25" alt="instagram icon" /> | [@udanprg](https://www.instagram.com/udanprg/)|
 
-[@udanprg](https://www.instagram.com/udanprg/)
-
-</figcaption>
-</figure>
-
-<figure>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" height="25" alt="linkedin icon" />
-<figcaption>
-
-[/uriel.arana](https://www.linkedin.com/in/urielarana/)
-
-</figcaption>
-</figure>
-
+|<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" height="25" alt="linkedin icon" /> | [/uriel.arana](https://www.linkedin.com/in/urielarana/)|
