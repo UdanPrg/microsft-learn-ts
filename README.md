@@ -2,7 +2,7 @@
 
 Este es un repositorio de recopilación de los ejecicios de realizados con los cursos de Microsfoft Learn, epecificamente en la introducción y el camino a aprender Typescript.
 
-## Qué es Typesctip?
+## Qué es Typescript?
 
 En las palabras literales de este curso Typescript es, y cito:
 
